@@ -44,7 +44,18 @@ bash -login
 rvm use 3.0.0
 ```
 
+----------------
 
+Luego de descargar git, Los comandos para acceder al repositorio son los siguientes.
+
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/CRUD_RubyOnRails.git
+cd CRUD_RubyOnRails
+git push origin master
+```
+---------
 
 
 Para ejecutar el programa creado se da el siguiente comando
